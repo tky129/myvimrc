@@ -1,0 +1,6 @@
+neobundle.vim
+syntastic
+unite.vim
+vim-autoclose
+vimfiler
+vimshell
