@@ -1,7 +1,11 @@
 felis-cat-igirisu-toast-express
 neobundle.vim
+neocomplcache
+neosnippet
+neosnippet-snippets
 syntastic
 unite.vim
 vim-autoclose
+vim-quickrun
 vimfiler
 vimshell
